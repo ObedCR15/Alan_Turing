@@ -1,0 +1,11 @@
+
+
+.btn-primary:hover {
+    background-color: #f70606 !important;
+    border-color: #f70606 !important;
+    color: #ffffff !important;
+}
+a:hover {
+    color: #f70606 !important;
+    text-decoration: underline;
+}
